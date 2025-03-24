@@ -1,3 +1,3 @@
-# ZEN COIN Launch Page
+# ZEN COIN Launch Page (JS Version)
 
-Official landing page for ZEN COIN, built with Next.js + Tailwind CSS.
+Official launch site for ZEN COIN, built with Next.js (JavaScript).
