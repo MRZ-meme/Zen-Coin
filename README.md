@@ -1,3 +1,3 @@
-# ZEN COIN Launch Page (JS Version)
+# Zen Coin
 
-Official launch site for ZEN COIN, built with Next.js (JavaScript).
+Launch page for Zen Coin meme token.
